@@ -15,4 +15,4 @@
 
 - [QHacks_Sponsorship_Package.pdf](https://github.com/MLH/mlh-hackathon-organizer-guide/blob/master/Organizer-Resources/Previous-Sponsorship-Decks/QHacks_Sponsorship_Package.pdf)
 - [WIT Sponsorship Deck](https://github.com/MLH/mlh-hackathon-organizer-guide/blob/master/Organizer-Resources/Previous-Sponsorship-Decks/WIT%20Sponsorship%20Deck.pdf)
-- [WarwickHACK Sponsorshi](https://github.com/MLH/mlh-hackathon-organizer-guide/blob/master/Organizer-Resources/Previous-Sponsorship-Decks/WarwickHACK%20Sponsorship.pdf)
+- [WarwickHACK Sponsorship](https://github.com/MLH/mlh-hackathon-organizer-guide/blob/master/Organizer-Resources/Previous-Sponsorship-Decks/WarwickHACK%20Sponsorship.pdf)
