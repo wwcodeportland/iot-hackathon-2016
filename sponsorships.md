@@ -1,9 +1,6 @@
 ### Sponsorship Packages
 
-Goals of the IoT Hackathon 2016
-- teaching 100 people to build for IoT using the Intel Edison devices
-- we want this event to be a learning experience
-- 50/50 attendance of women
+The goal of the IoT Hackathon is to bring together a balamced mix of engineers and designers to show off their skills and see what awesome IoT hacks they can come up with in 24 hours. 
 
 #### Sponsorship Levels
 
