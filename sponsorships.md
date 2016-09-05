@@ -10,7 +10,7 @@ We need help from the community to sponsor food, giveaways, and prizes for the w
 
 - your logo on all hackathon-related communications
 - your logo on the official IoT Hackathon long-sleeve shirts
-- 30 minutes of lightning talks from an engineer or designer at your company
+- 30 minutes of lightning talks from one or several people at your company
 - social media acknowledgement
 - Job Fair participation
 
