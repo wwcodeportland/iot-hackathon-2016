@@ -1,6 +1,6 @@
 ### Sponsorship Packages
 
-The goal of the IoT Hackathon is to bring together a balamced mix of engineers and designers to show off their skills and see what awesome IoT hacks they can come up with in 24 hours. 
+The goal of the IoT Hackathon is to bring together a balanced mix of engineers and designers to show off their skills and see what awesome IoT hacks they can come up with in 24 hours. 
 
 #### Sponsorship Levels
 
