@@ -4,21 +4,19 @@
 
 - **Who:** Women Who Code Portland + HackPDX
 
-- **When:** November 11-13, 2016
+- **When:** December 2-4, 2016
 
-- **Time:** Fri. Nov 11 (5-9pm), Sat. Nov 12 (9am-9pm), Sun. Nov 13 (9am-5pm)
+- **Time:** Fri. Nov 11 (6-9pm), Sat. Nov 12 (10am-9pm), Sun. Nov 13 (10am-3pm)
 
-- **Where:** TBA
+- **Where:** WeWork Portland
 
 - **Hardware:** Intel Edison
 
-- **Cost:** $30-40 per attendee (partial scholarships  available)
+- **Cost:** $30 per attendee (scholarships  available)
 
 ### Learning About IoT
 
-- **Pre-Hackathon Workshop** Thu, Oct. 20 - 6-9pm
-
-- **Selected Reading:** stay tuned...
+- **Pre-Hackathon Webinar** Mon, Nov. 21 - 7-8pm - Speaker: Grace Metri, IoT Evangelist, Intel
 
 ### Planning
 
