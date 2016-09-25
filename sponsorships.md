@@ -1,6 +1,6 @@
 ### Sponsorship Packages
 
-The goal of the IoT Hackathon is to bring together a balanced mix of engineers and designers to show off their skills and see what awesome IoT hacks they can come up with in 24 hours. 
+The goal of the IoT Hackathon is to bring together a balanced mix of engineers and designers to show off their skills and see what awesome IoT hacks they can come up with in one weekend. 
 
 #### Sponsorship Levels
 
@@ -11,10 +11,19 @@ We need help from the community to sponsor food, giveaways, and prizes for the w
 - your logo on all hackathon-related communications
 - your logo on the official IoT Hackathon long-sleeve shirts
 - 30 minutes of lightning talks from one or several people at your company
-- social media acknowledgement
-- Job Fair participation
-
-#### Job Fair - $1,000
-
 - Job Fair participation
 - social media acknowledgement
+
+#### Silver - $1,000
+
+- your logo on the official IoT Hackathon long-sleeve shirts
+- 30 minutes of lightning talks from one or several people at your company
+- Job Fair participation
+- social media acknowledgement
+
+#### Bronze - $500
+
+- Job Fair participation
+- social media acknowledgement
+
+#### Custom Sponsorship are also available.
