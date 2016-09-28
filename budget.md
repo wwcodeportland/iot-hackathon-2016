@@ -1,6 +1,6 @@
 ### Budget
 
-Estimate budget is based on attendance of 100 hackers + 10-20 volunteers.
+Estimate budget is based on attendance of 100 hackers + 10 volunteers at a time/30 volunteers total + 10 mentors + 10 sponsors.
 
 |Item               |Description          |Price    |Quantity   |Expected   |Actual   |
 |---                |---                  |---      |---        |---        |---      |
