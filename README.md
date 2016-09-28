@@ -6,13 +6,13 @@
 
 - **When:** December 2-4, 2016
 
-- **Time:** Fri. Nov 11 (6-9pm), Sat. Nov 12 (10am-9pm), Sun. Nov 13 (10am-3pm)
+- **Time:** Fri. Dec 2 (6-10pm), Sat. Dec 3 (10am-9pm), Sun. Dec 4 (10am-3pm)
 
-- **Where:** WeWork Portland
+- **Where:** 
 
 - **Hardware:** Intel Edison
 
-- **Cost:** $30 per attendee (scholarships  available)
+- **Cost:** $30 per attendee (scholarships available)
 
 ### Learning About IoT
 
