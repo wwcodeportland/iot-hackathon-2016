@@ -8,7 +8,7 @@
 
 - **Time:** Fri. Dec 2 (6-10pm), Sat. Dec 3 (9am-9pm), Sun. Dec 4 (9am-3pm)
 
-- **Where:** Simple 
+- **Where:** Simple (1615 SE 3rd Ave #200, Portland, OR)
 
 - **Theme:** Sustainability
 
