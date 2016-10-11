@@ -6,9 +6,11 @@
 
 - **When:** December 2-4, 2016
 
-- **Time:** Fri. Dec 2 (6-10pm), Sat. Dec 3 (10am-9pm), Sun. Dec 4 (10am-3pm)
+- **Time:** Fri. Dec 2 (6-10pm), Sat. Dec 3 (9am-9pm), Sun. Dec 4 (9am-3pm)
 
-- **Where:** 
+- **Where:** Simple 
+
+- **Theme:** Sustainability
 
 - **Hardware:** Intel Edison
 
@@ -17,6 +19,8 @@
 ### Learning About IoT
 
 - **Pre-Hackathon Webinar** Mon, Nov. 21 - 7-8pm - Speaker: Grace Metri, IoT Evangelist, Intel
+
+- **Workshop** Fri. Dec. 2 - 7-9pm
 
 ### Planning
 
