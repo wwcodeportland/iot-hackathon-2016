@@ -14,7 +14,7 @@
 
 - **Cost:** FREE
 
-- **Who Should Attend?:** All skill levels welcome. This is a learning opportunity.
+- **Who Should Attend?:** All skill levels welcome. This is a learning opportunity. By coming, you agree to follow our [Code of Conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md).
 
 ### Learning About IoT
 
