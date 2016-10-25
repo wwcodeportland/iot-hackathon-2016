@@ -1,27 +1,24 @@
-## IoT Hackathon 2016
+## IoT Sustainability Hackathon 2016
 
 ### Details
 
-- **Who:** Women Who Code Portland + HackPDX
+- **Who:** Women Who Code Portland
 
 - **When:** December 2-4, 2016
 
-- **Time:** Fri. Dec 2 (6-10pm), Sat. Dec 3 (9am-9pm), Sun. Dec 4 (9am-3pm)
+- **Time:** Fri. Dec 2 (6-9pm), Sat. Dec 3 (9am-9pm), Sun. Dec 4 (9am-3pm)
 
-- **Where:** Simple (1615 SE 3rd Ave #200, Portland, OR)
+- **Where:** Simple (1615 SE 3rd Ave, Portland, OR)
 
-- **Theme:** Sustainability
+- **Hardware:** Intel Edison Starter Kit 
 
-- **Hardware:** Intel Edison
+- **Cost:** FREE
 
-- **Cost:** $30 per attendee (scholarships available)
+- **Who Should Attend?:** All skill levels welcome. This is a learning opportunity.
 
 ### Learning About IoT
 
 - **Pre-Hackathon Webinar** Mon, Nov. 21 - 7-8pm - Speaker: Grace Metri, IoT Evangelist, Intel
 
-- **Workshop** Fri. Dec. 2 - 7-9pm
+- **Workshop** Sat. Dec. 3 - 9-10am
 
-### Planning
-
-- Selecting Reading about [how to plan a hackathon](selected-reading.md)
