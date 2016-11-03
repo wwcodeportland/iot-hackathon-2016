@@ -66,7 +66,7 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 <img height=100 src="assets/logo-airbnb.png" title="Airbnb">
 
 ##### Silver Sponsors
-<img height=80 src="assets/logo-mozilla.png" title="Mozilla">
+<img height=80 src="assets/logo-mozilla.jpg" title="Mozilla">
 <img height=80 src="assets/logo-polysync.png" title="PolySync">
 <img height=80 src="assets/logo-metaltoad.jpg" title="Metal Toad">
 <img height=80 src="assets/logo-donutjs.jpg" title="Donut.js">
