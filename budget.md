@@ -13,6 +13,6 @@ Estimate budget is based on attendance of 100 hackers + 10 volunteers at a time/
 |Prizes             |TBD                  |         |           |$ 1,000.00  |         |y         |
 |Video Recording    |Final presentations  |$600     |1          |$   600.00  |         |y         |
 |Thank yous         |Judges, mentors, volunteers |  |10         |$   250.00  |         |          |
-|Planning           |Attend previous hackathons |   |           |$   250.00  |         |          |
+|Planning + Marketing |                   |         |           |$   250.00  |         |          |
 |---                |---                  |---      |---        |---         |---      |---       |
 |TOTAL              |                     |         |           |$16,640.00  |         |          |
