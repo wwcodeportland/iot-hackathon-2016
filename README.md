@@ -1,4 +1,4 @@
-## IoT Sustainability Hackathon 2016
+## IoT Hackathon 2016: Sustainable Cities
 
 ### Details
 
