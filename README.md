@@ -63,6 +63,6 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 <img height=80 src="assets/logo-cdk-global.png" title="CDK Global">
 
 ##### Bronze Sponsors
-<img height=80 src="assets/logo-code-fellows.png" title="Code Fellows">
-<img height=80 src="assets/logo-rigado.jpg" title="Rigado">
+<img height=60 src="assets/logo-code-fellows.png" title="Code Fellows">
+<img height=60 src="assets/logo-rigado.jpg" title="Rigado">
 
