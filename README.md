@@ -2,7 +2,7 @@
 
 **Tickets:** [get your FREE ticket today](https://www.eventbrite.com/e/iot-hackathon-2016-tickets-28883385985)
 
-<img height=300 src="assets/eventbrite-image.png" title="New Relic">
+<img height=300 src="assets/eventbrite-image.png" title="Hackathon Marketing Image">
 
 ### Code of Conduct
 
@@ -60,4 +60,9 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 <img height=80 src="assets/logo-polysync.png" title="PolySync">
 <img height=80 src="assets/logo-metaltoad.jpg" title="Metal Toad">
 <img height=80 src="assets/logo-donutjs.jpg" title="Donut.js">
+<img height=80 src="assets/logo-cdk-global.jpg" title="CDK Global">
+
+##### Bronze Sponsors
+<img height=80 src="assets/logo-code-fellows.jpg" title="Code Fellows">
+<img height=80 src="assets/logo-rigado.jpg" title="Rigado">
 
