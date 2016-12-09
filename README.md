@@ -1,8 +1,8 @@
-## WWCode Portland - IoT Hackathon 2016
+## IoT Hackathon 2016 - Sustainable Cities
 
 **Tickets:** [get your FREE ticket today](https://www.eventbrite.com/e/iot-hackathon-2016-tickets-28883385985)
 
-<img height=300 src="assets/eventbrite-image.png" title="Hackathon Marketing Image">
+<img height=300 src="assets/hackathon.png" title="Hackathon Marketing Image">
 
 ### Code of Conduct
 
@@ -26,8 +26,8 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 
 ### Schedule
 ##### Friday, December 2nd
-- 5:30 - Doors Open + Dinner
-- 6:30 - Official Welcome + IoT Lightning Talks
+- 6:00 - Doors Open + Dinner
+- 7:00 - Women Who Code Welcome + IoT Lightning Talks
 - 8:30 - Pitch Ideas + Team Forming
 - 10:00 - Go Home and Rest
 
@@ -59,10 +59,11 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 <img height=80 src="assets/logo-mozilla.jpg" title="Mozilla">
 <img height=80 src="assets/logo-polysync.png" title="PolySync">
 <img height=80 src="assets/logo-metaltoad.jpg" title="Metal Toad">
-<img height=80 src="assets/logo-donutjs.jpg" title="Donut.js">
 <img height=80 src="assets/logo-cdk-global.png" title="CDK Global">
 
 ##### Bronze Sponsors
-<img height=60 src="assets/logo-code-fellows.png" title="Code Fellows">
 <img height=60 src="assets/logo-rigado.jpg" title="Rigado">
+<img height=60 src="assets/logo-donutjs.jpg" title="Donut.js">
+<img height=60 src="assets/logo-code-fellows.png" title="Code Fellows">
+<img height=60 src="assets/logo-pmmc.png" title="PMMC">
 
