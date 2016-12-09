@@ -57,11 +57,10 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 <img height=50 src="assets/logo-simple.png" title="Simple">
 
 ##### Silver Sponsors
+<img height=80 src="assets/logo-cdk-global.png" title="CDK Global">
 <img height=80 src="assets/logo-mozilla.png" title="Mozilla">
 
 <img height=40 src="assets/logo-polysync.png" title="PolySync">
-
-<img height=80 src="assets/logo-cdk-global.png" title="CDK Global">
 
 <img height=40 src="assets/logo-metaltoad.png" title="Metal Toad">
 
