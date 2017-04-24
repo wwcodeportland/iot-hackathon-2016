@@ -13,14 +13,14 @@ We need help from the community to sponsor food, giveaways, and prizes for the w
 #### Gold - $3,000
 
 - your logo on all hackathon-related communications
-- your logo on the official IoT Hackathon long-sleeve shirts
+- your name or logo on the official IoT Hackathon long-sleeve shirts
 - 30 minutes of lightning talks from one or several people at your company (optional)
 - Job Fair participation
 - social media acknowledgement
 
 #### Silver - $1,000
 
-- your logo on the official IoT Hackathon long-sleeve shirts
+- your name or logo on the official IoT Hackathon long-sleeve shirts
 - 10 minutes of lightning talks from one person at your company (optional)
 - Job Fair participation
 - social media acknowledgement
