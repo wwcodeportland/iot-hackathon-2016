@@ -52,21 +52,15 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 <img height=120 src="assets/logo-intel.png" title="Intel">
 
 ##### Gold Sponsors
-<img height=50 src="assets/logo-airbnb.png" title="Airbnb">
-
-<img height=50 src="assets/logo-simple.png" title="Simple">
+<img height=50 src="assets/logo-airbnb.png" title="Airbnb"> <img height=50 src="assets/logo-simple.png" title="Simple">
 
 ##### Silver Sponsors
-<img height=80 src="assets/logo-cdk-global.png" title="CDK Global">
-<img height=80 src="assets/logo-mozilla.png" title="Mozilla">
-
+<img height=80 src="assets/logo-cdk-global.png" title="CDK Global"> <img height=80 src="assets/logo-mozilla.png" title="Mozilla">
 <img height=40 src="assets/logo-polysync.png" title="PolySync">
-
 <img height=40 src="assets/logo-metaltoad.png" title="Metal Toad">
 
 ##### Bronze Sponsors
-<img height=60 src="assets/logo-rigado.jpg" title="Rigado">
-<img height=60 src="assets/logo-donutjs.jpg" title="Donut.js">
+<img height=60 src="assets/logo-rigado.jpg" title="Rigado"> <img height=60 src="assets/logo-donutjs.jpg" title="Donut.js">
 <img height=60 src="assets/logo-code-fellows.png" title="Code Fellows">
 <img height=60 src="assets/logo-pmmc.png" title="PMMC">
 
