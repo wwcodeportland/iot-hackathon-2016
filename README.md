@@ -60,7 +60,7 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 <img height=100 src="assets/logo-metaltoad.jpg" title="Metal Toad" alt="Metal Toad">
 
 ##### Bronze Sponsors
-<img height=100 src="assets/logo-rigado.png" title="Rigado" alt="Rigado"> <img height=60 src="assets/logo-donutjs.png" title="Donut.js" alt="Donut.js">
+<img height=100 src="assets/logo-rigado.png" title="Rigado" alt="Rigado"> <img height=100 src="assets/logo-donutjs.png" title="Donut.js" alt="Donut.js">
 <img height=100 src="assets/logo-alchemy-code-lab.png" title="Alchemy Code Lab" alt="Alchemy Code Lab">
 <img height=100 src="assets/logo-pmmc.png" title="PMMC" alt="PMMC">
 
